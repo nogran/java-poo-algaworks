@@ -19,7 +19,6 @@ public class Principal {
 		System.out.println("-----Meu carro-----");
 		System.out.println("Fabricante: " + meuCarro.fabricante);
 		System.out.println("Modelo: " + meuCarro.modelo);
-		System.out.println("Ano: " + meuCarro.anoDeFabricacao);
 		System.out.println("Cor: " + meuCarro.cor);
 		System.out.println("Ano: " + meuCarro.anoDeFabricacao);
 		
